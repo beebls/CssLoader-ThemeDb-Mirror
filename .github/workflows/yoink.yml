@@ -15,7 +15,7 @@ jobs:
           fetch-depth: 0
       
       - name: Grab themes.json
-        run:
+        run: |
           git pull
           curl -L https://github.com/suchmememanyskill/CssLoader-ThemeDb/releases/download/1.0.0/themes.json > themes.json
       
