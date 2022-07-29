@@ -1,0 +1,22 @@
+name: Yoink
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  yoink:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      
+      - name: Grab themes.json
+        run: curl -L https://github.com/suchmememanyskill/CssLoader-ThemeDb/releases/download/1.0.0/themes.json > themes.json
+      
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Grab themes.json
