@@ -210,6 +210,20 @@
     "music": false
   },
   {
+    "id": "3c957b57-4ae5-4c2f-8f88-d8cbef5a3509",
+    "download_url": "https://api.deckthemes.com/blobs/75075292-99e8-4888-b2bf-cd308753fdcf",
+    "preview_image": "https://api.deckthemes.com/blobs/f19278cb-aa36-4c30-b168-225c3bf0c1be",
+    "name": "Round Avatar Status",
+    "version": "v1.0",
+    "author": "Ingolmo",
+    "last_changed": "01/02/2023 00:17:02 +00:00",
+    "target": "System-Wide",
+    "source": "https://github.com/fklingler/Steam-Deck-Themes @ f1cd91c",
+    "manifest_version": 4,
+    "description": "This makes the avatar status at the top right of the screen appear as a round dot instead of a vertical bar.",
+    "music": false
+  },
+  {
     "id": "3e3010d6-f776-48d6-89ab-2ce0aa78322b",
     "download_url": "https://api.deckthemes.com/blobs/97d4d943-7750-4ba9-9e58-effb53868bba",
     "preview_image": "https://api.deckthemes.com/blobs/c87e78a9-05c0-4e82-8a8c-b45f4b3b955b",
@@ -364,6 +378,20 @@
     "music": false
   },
   {
+    "id": "70cac703-6df2-44f3-9482-82dd56ab2041",
+    "download_url": "https://api.deckthemes.com/blobs/7a2e3e24-1989-4ceb-bb59-b972ff0670d4",
+    "preview_image": "https://api.deckthemes.com/blobs/624e3e5f-6100-4866-88d5-a413742e1ce7",
+    "name": "DeckyBattery",
+    "version": "v1.0",
+    "author": "Nox (GoDev)",
+    "last_changed": "12/30/2022 22:08:25 +00:00",
+    "target": "Other",
+    "source": "https://github.com/GoDev87/DeckThemes @ a367a88",
+    "manifest_version": 4,
+    "description": "DeckyBattery enable you to theme the battery color.",
+    "music": false
+  },
+  {
     "id": "80e3d8cf-6c7f-4400-afe7-0f7cc17964e3",
     "download_url": "https://api.deckthemes.com/blobs/5c716e0e-2163-43fd-8856-2675dc54f93b",
     "preview_image": "https://api.deckthemes.com/blobs/c1ee10d5-1424-4182-b0ca-efb550eb0677",
@@ -449,12 +477,12 @@
   },
   {
     "id": "9ac2bf60-66c5-4f50-aa6b-f897465ba328",
-    "download_url": "https://api.deckthemes.com/blobs/04d1dc3f-a100-422e-a966-3ca7e06aa241",
-    "preview_image": "https://api.deckthemes.com/blobs/10f1d1b2-c2a0-4c6d-bd1e-70ad6ba68031",
+    "download_url": "https://api.deckthemes.com/blobs/93622083-b733-4abe-9cfa-c60eebd80dd4",
+    "preview_image": "https://api.deckthemes.com/blobs/bd5c1907-87a4-4eab-8a36-d593dd7a888e",
     "name": "Switch Like Home",
     "version": "v1.2",
     "author": "SuchMeme, Scyu_",
-    "last_changed": "12/16/2022 13:42:35 +00:00",
+    "last_changed": "01/02/2023 11:07:37 +00:00",
     "target": "Home",
     "source": "https://github.com/suchmememanyskill/Steam-Deck-Themes @ 40a5454",
     "manifest_version": 2,
@@ -543,6 +571,20 @@
     "source": "https://github.com/konqiDAM/Simple-deck-themes @ beac9a0",
     "manifest_version": 2,
     "description": "Animated synthwave backgrounds for home, librarly and keyboard",
+    "music": false
+  },
+  {
+    "id": "afb5f41d-34aa-40c2-9cbc-3d941846b990",
+    "download_url": "https://api.deckthemes.com/blobs/c0b234a5-5392-4f88-a3cc-1406e51499ef",
+    "preview_image": "https://api.deckthemes.com/blobs/779ca7fa-0732-47d8-935d-076e0988eb5e",
+    "name": "Volume Tweaker",
+    "version": "v1.6",
+    "author": "Tripticon84",
+    "last_changed": "01/01/2023 19:29:48 +00:00",
+    "target": "Other",
+    "source": "https://github.com/Tripticon84/SteamDeck-Themes @ 7b51459",
+    "manifest_version": 4,
+    "description": "Add a bunch of option to customize the volume popup. Don't forget to disable the preview button.",
     "music": false
   },
   {
@@ -729,14 +771,14 @@
   },
   {
     "id": "eb3f538b-173d-43b5-a83b-dddce528243f",
-    "download_url": "https://api.deckthemes.com/blobs/0a3c05f5-5c2a-4937-b3b1-e25175f0f2a6",
-    "preview_image": "https://api.deckthemes.com/blobs/b8888282-5aba-4ace-b78f-64052f8a27cc",
+    "download_url": "https://api.deckthemes.com/blobs/8f452b28-e3ce-4314-a08f-68b0a9e8e415",
+    "preview_image": "https://api.deckthemes.com/blobs/4daf8664-622a-4f67-92c2-c2bc2acbca7b",
     "name": "Centered Game Text",
     "version": "v1.1",
     "author": "SuchMeme",
-    "last_changed": "12/17/2022 15:13:09 +00:00",
+    "last_changed": "01/02/2023 12:04:43 +00:00",
     "target": "Tweak",
-    "source": "https://github.com/suchmememanyskill/Steam-Deck-Themes @ b89375e",
+    "source": "https://github.com/suchmememanyskill/Steam-Deck-Themes @ 40a5454",
     "manifest_version": 3,
     "description": "Centers the text on top of a game, rather than left aligning it with the game",
     "music": false
